@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Logan Grossman Concrete & Services</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <img src="logo.jpg" alt="LG Concrete Logo" class="logo">
+    <h1>Logan Grossman Concrete & Services LLC</h1>
+    <p>Family Owned & Operated</p>
+    <p>503-510-8463 | CCB#6632906</p>
+  </header>
+
+  <section class="about">
+    <h2>About Us</h2>
+    <p>Logan Grossman Concrete & Services LLC is a family-owned business proudly serving Oregon with quality concrete work. We’re committed to dependable service, honest work, and durable results.</p>
+  </section>
+
+  <section class="services">
+    <h2>Our Services</h2>
+    <ul>
+      <li>Driveways & Sidewalks</li>
+      <li>Stamped & Decorative Concrete</li>
+      <li>Foundations & Slabs</li>
+      <li>Concrete Repair</li>
+    </ul>
+  </section>
+
+  <section class="contact">
+    <h2>Contact Us</h2>
+    <form>
+      <input type="text" placeholder="Your Name" required>
+      <input type="email" placeholder="Your Email" required>
+      <textarea placeholder="Tell us about your project..." required></textarea>
+      <button type="submit">Send</button>
+    </form>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Logan Grossman Concrete & Services LLC</p>
+  </footer>
+</body>
+</html>
